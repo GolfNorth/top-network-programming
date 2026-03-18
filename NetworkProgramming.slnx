@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Module2.Lesson/Module2.Lesson.csproj" />
+  <Project Path="Module2.Task1.Client/Module2.Task1.Client.csproj" />
   <Project Path="Module2.Task1.Server/Module2.Task1.Server.csproj" />
 </Solution>
