@@ -12,4 +12,7 @@
   <Project Path="Module2.Task4.Client/Module2.Task4.Client.csproj" />
   <Project Path="Module2.Task4.Server.Legacy/Module2.Task4.Server.Legacy.csproj" />
   <Project Path="Module2.Task4.Server/Module2.Task4.Server.csproj" />
+  <Project Path="Module2.Task2.Client/Module3.1.Common.csproj" />
+  <Project Path="Module2.Task2.Client/Module3.1.Task1.Client.csproj" />
+  <Project Path="Module2.Task2.Server/Module3.1.Task1.Server.csproj" />
 </Solution>
