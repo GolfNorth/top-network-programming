@@ -22,4 +22,6 @@
   <Project Path="Module3.1.Task4.Client/Module3.1.Task4.Client.csproj" />
   <Project Path="Module3.1.Task4.Server/Module3.1.Task4.Server.csproj" />
   <Project Path="Module3.2.Common/Module3.2.Common.csproj" />
+  <Project Path="Module3.2.Task1.Client/Module3.2.Task1.Client.csproj" />
+  <Project Path="Module3.2.Task1.Server/Module3.2.Task1.Server.csproj" />
 </Solution>
