@@ -1,5 +1,4 @@
 <Solution>
-  <Project Path="Module2.Lesson/Module2.Lesson.csproj" />
   <Project Path="Module2.Task1.Client/Module2.Task1.Client.csproj" />
   <Project Path="Module2.Task1.Server/Module2.Task1.Server.csproj" />
   <Project Path="Module2.Task2.Client/Module2.Task2.Client.csproj" />
@@ -31,4 +30,12 @@
   <Project Path="Module3.2.Task4.Client/Module3.2.Task4.Client.csproj" />
   <Project Path="Module3.2.Task4.Server/Module3.2.Task4.Server.csproj" />
   <Project Path="Module3.2.Task5.Server/Module3.2.Task5.Server.csproj" />
+  <Project Path="Module3.3.Task1.Client.CSharp/Module3.3.Task1.Client.CSharp.csproj" />
+  <Project Path="Module3.3.Task1.Server.CSharp/Module3.3.Task1.Server.CSharp.csproj" />
+  <Project Path="Module3.3.Task2.Client.CSharp/Module3.3.Task2.Client.CSharp.csproj" />
+  <Project Path="Module3.3.Task2.Server.CSharp/Module3.3.Task2.Server.CSharp.csproj" />
+  <Project Path="Module3.3.Task3.Client.CSharp/Module3.3.Task3.Client.CSharp.csproj" />
+  <Project Path="Module3.3.Task3.Server.CSharp/Module3.3.Task3.Server.CSharp.csproj" />
+  <Project Path="Module3.3.Task4.Client.CSharp/Module3.3.Task4.Client.CSharp.csproj" />
+  <Project Path="Module3.3.Task4.Server.CSharp/Module3.3.Task4.Server.CSharp.csproj" />
 </Solution>
